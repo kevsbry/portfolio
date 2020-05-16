@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a371e9b9.chunk.css",
+    "main.js": "/portfolio/static/js/main.16658f20.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.16658f20.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f18b6ef5.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f18b6ef5.js.map",
+    "static/js/2.93c68544.chunk.js": "/portfolio/static/js/2.93c68544.chunk.js",
+    "static/js/2.93c68544.chunk.js.map": "/portfolio/static/js/2.93c68544.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.1824d81458cc91ebeb0932b106318c37.js": "/portfolio/precache-manifest.1824d81458cc91ebeb0932b106318c37.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.a371e9b9.chunk.css.map": "/portfolio/static/css/main.a371e9b9.chunk.css.map",
+    "static/js/2.93c68544.chunk.js.LICENSE.txt": "/portfolio/static/js/2.93c68544.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/portfolio/static/media/Segoe UI.9a293118.woff",
+    "static/media/b&w.png": "/portfolio/static/media/b&w.c794496a.png",
+    "static/media/black and white.png": "/portfolio/static/media/black and white.8c0e1bb9.png",
+    "static/media/cities.png": "/portfolio/static/media/cities.b5423597.png",
+    "static/media/faceoff.png": "/portfolio/static/media/faceoff.a87d0962.png",
+    "static/media/faster.png": "/portfolio/static/media/faster.c5d2369e.png",
+    "static/media/love or hate.png": "/portfolio/static/media/love or hate.a160cfff.png",
+    "static/media/love trap.png": "/portfolio/static/media/love trap.57cfb137.png",
+    "static/media/mophoria.png": "/portfolio/static/media/mophoria.248f647e.png",
+    "static/media/puffypuff.png": "/portfolio/static/media/puffypuff.73f05161.png",
+    "static/media/smartserver.png": "/portfolio/static/media/smartserver.2afae792.png",
+    "static/media/traveler_europe.png": "/portfolio/static/media/traveler_europe.22149d4f.png",
+    "static/media/traveler_philippines.png": "/portfolio/static/media/traveler_philippines.dd42336b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18b6ef5.js",
+    "static/js/2.93c68544.chunk.js",
+    "static/css/main.a371e9b9.chunk.css",
+    "static/js/main.16658f20.chunk.js"
+  ]
+}
