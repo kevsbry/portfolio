@@ -106,7 +106,7 @@ const About = React.forwardRef((props, ref) => {
   });
 
   const [me, setMe] = useState(
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "Hi! I'm Kevin Bryan Bautista a 24 year old developer, I got into programming because of my passion for video games and managed to publish some of my small games on Google Play. I'm also knowledgeable in Web Development both in backend and frontend development, but I consider myself more of a frontend developer. I have experience in Golang as it was the used programming language in my previous job. I'm really into frontend developement because I love designing websites and experimenting with various tools, after leaving my previous job I taught myself React which I'm planning to use for both web and mobile development."
   );
 
   //skill set 1

@@ -169,12 +169,12 @@ const Portfolio = React.forwardRef((props, portfolioRef) => {
 
   const pages = [
     {
-      name: "react.js",
+      name: "React.js",
       isActive: true,
       transformValue: 0,
     },
     {
-      name: "games",
+      name: "Games",
       isActive: false,
       transformValue: 100,
     },
