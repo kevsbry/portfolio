@@ -1,4 +1,4 @@
-import { GolangSVG, PhotoshopSVG, LightroomSVG, XdSVG } from "./SVG";
+import { GolangSVG, PhotoshopSVG, LightroomSVG, XdSVG, ReduxSVG } from "./SVG";
 import React, { useState, useRef } from "react";
 import photo from "../assets/photos/b&w.png";
 import { FontAwesomeIcon as Icon } from "@fortawesome/react-fontawesome";
@@ -9,6 +9,7 @@ import {
   faHtml5,
   faCss3Alt,
   faJava,
+  faSass,
 } from "@fortawesome/free-brands-svg-icons";
 
 const About = React.forwardRef((props, ref) => {
@@ -122,6 +123,11 @@ const About = React.forwardRef((props, ref) => {
       description: "",
     },
     {
+      icon: <ReduxSVG />,
+      name: "Redux",
+      description: "",
+    },
+    {
       icon: <Icon className="skill-icon" icon={faHtml5} />,
       name: "HTML",
       description: "",
@@ -130,6 +136,11 @@ const About = React.forwardRef((props, ref) => {
       icon: <Icon className="skill-icon" icon={faCss3Alt} />,
       name: "CSS",
       description: "Vanilla CSS & Bootstrap 4",
+    },
+    {
+      icon: <Icon className="skill-icon" icon={faSass} />,
+      name: "Sass",
+      description: "",
     },
     {
       icon: <Icon className="skill-icon" icon={faJava} />,

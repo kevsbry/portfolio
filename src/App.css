@@ -324,7 +324,7 @@
 .portfolio {
   display: grid;
   grid-template-columns: 1fr 8fr 1fr;
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
 .portfolio .title {
